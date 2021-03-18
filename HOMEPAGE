@@ -1,1 +1,14 @@
-
+<!doctype html>
+<html lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF8">
+<title>Homepage</title>
+<meta name="description" content="This is the homepage of my blockchain product.>
+<script>
+</script>
+</head>
+<body>
+<h1> Welcome </h1>
+<p> This will be the first paragraph you read on the site </p>
+</body>
+</html>
