@@ -5,7 +5,7 @@
 <title>Chain media</title>
 <meta name="description" content="This is the homepage of my blockchain product.>
 <meta name="keywords" content="hompepage, blockchain, product"
-
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
 <script>
 </script>
 </head>
