@@ -6,5 +6,10 @@
   
     </head>
   <body>
+  <form>
+  <h1> Create Account </h1>
+  <p> input your data on this page in order to create your account </p>
+  <input type="text" name="username" value="username"> </input>
+    </form>
     </body>
     </html>
